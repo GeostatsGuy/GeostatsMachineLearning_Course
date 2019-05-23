@@ -16,7 +16,7 @@ You will gain:
 * General Overview - essential concepts from data analytics, geostatistics and machine learning
 * Data analytics - definitions, bootstrap, declustering
 * Spatial continuity - variogram  calculation and modeling, trend modeling and spatial estimations
-* Inference - clustering, priincipal componnents
+* Inference - clustering, principal componnents
 * Prediction - decision tree, support vector machine and neural networks
 * Advanced Workflows - convolutional and recurent neural networks
 * Conclusions
